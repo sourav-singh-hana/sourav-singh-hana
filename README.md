@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sourav Singh 👋
 
-<!--
-**sourav-singh-hana/sourav-singh-hana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology Consultant at Infosys | SAP HANA | Unix | Data Engineering
 
-Here are some ideas to get you started:
+I have 7+ years of experience in data engineering, analytics and enterprise application support, with a focus on SAP HANA development and Unix server administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- SAP HANA development: views, procedures, functions, data models
+- Unix server administration and Git-based deployments
+- Job scheduling and automation with JS7, Autosys and crontab
+- Data validation, reconciliation and production support
+- Documentation and onboarding for an enterprise finance platform, published via review and release workflows
+- AI-assisted engineering with Claude Code (human-reviewed, human-approved)
+
+## Skills
+SAP HANA · SQL · SQLScript · Unix/Linux · Shell scripting · Git · JS7 · Autosys · ETL · Azure
+
+## Certifications
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Studying for Anthropic Claude AI certification
+
+## Connect
+- LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sourav-singh-365500212?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
