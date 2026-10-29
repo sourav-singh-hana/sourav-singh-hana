@@ -20,4 +20,5 @@ SAP HANA · SQL · SQLScript · Unix/Linux · Shell scripting · Git · JS7 · A
 - Studying for Anthropic Claude AI certification
 
 ## Connect
-- LinkedIn: [Sourav Singh](https://www.linkedin.com/in/sourav-singh-365500212)
+- LinkedIn: https://www.linkedin.com/in/sourav-singh-365500212
+- Website: https://sourav-singh-hana.github.io
